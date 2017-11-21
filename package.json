@@ -1,0 +1,28 @@
+{
+  "name": "fis-parser-tsc",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErosZy/fis-parser-tsc.git"
+  },
+  "keywords": [
+    "fis2",
+    "typescript",
+    "compiler",
+    "parser"
+  ],
+  "author": "ErosZy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ErosZy/fis-parser-tsc/issues"
+  },
+  "homepage": "https://github.com/ErosZy/fis-parser-tsc#readme",
+  "dependencies": {
+    "typescript": "^2.6.1"
+  }
+}
